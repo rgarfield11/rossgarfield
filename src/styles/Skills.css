@@ -1,0 +1,18 @@
+.skills {
+    align-items: center;
+    text-align: center;
+}
+
+.skill {
+    margin: 1rem;
+}
+
+.skill img {
+    width: 4rem;
+    margin: 0;
+}
+
+.skill p {
+    font-size: 30px;
+    margin: 0;
+}
