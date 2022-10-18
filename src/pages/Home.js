@@ -32,20 +32,6 @@ function Home() {
       </div>
       <div className='skills'>
         <h1>Skills</h1>
-        {/* <ol className='list'>
-          <li className='item'>
-            <h2>Front-End</h2>
-            <span>ReactJS, HTML, CSS, BootStrap, MaterialUI</span>
-          </li>
-          <li className='item'>
-            <h2>Back-End</h2>
-            <span>NodeJS, SQL, Ruby, Rails</span>
-          </li>
-          <li className='item'>
-            <h2>Languages</h2>
-            <span>JavaScript, Ruby</span>
-          </li>
-        </ol> */}
         <Skills />
       </div>
     </div>
