@@ -12,6 +12,11 @@
     justify-content: center;
     color: white;
   }
+
+  .link-tabs:hover {
+    color: #e9d35b;
+    transition: 0.5s
+  }
   
   .navbar a {
     color: white;
