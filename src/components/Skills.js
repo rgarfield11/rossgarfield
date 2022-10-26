@@ -4,7 +4,7 @@ import css from '../assets/css.png'
 import react from '../assets/logo192.png'
 import html from '../assets/html.png'
 import ruby from '../assets/ruby.png'
-import rails from '../assets/rails.jpeg'
+import rails from '../assets/rails.png'
 import postgresql from '../assets/postgresql.png'
 import '../styles/Home.css'
 
