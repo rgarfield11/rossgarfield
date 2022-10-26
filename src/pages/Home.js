@@ -21,7 +21,7 @@ function Home() {
             <EmailIcon />
           </a>
 
-          <a className='contact-icon' data-tip="View My Resume" href="https://docs.google.com/document/d/1OOSamrcFre-r7etsvDcOWUdiq7lpV7dZ0Jlvmi4ES_o/edit" target="_blank" rel="noreferrer">
+          <a className='contact-icon' data-tip="View My Resume" href="1vSPLaZBuT42D7KUomeCaKDdnweY6up2ZjRxmUdgAG5FMen8lEBCe7hHCt8TvJI8IVoo7KHaVdM4eo8g" target="_blank" rel="noreferrer">
             <DescriptionIcon />
           </a>
 
