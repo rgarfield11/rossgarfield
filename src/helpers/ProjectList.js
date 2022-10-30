@@ -2,6 +2,7 @@ import project1 from '../assets/tastebook.jpg';
 import project2 from '../assets/onlydevs.jpg';
 import project3 from '../assets/tandm.jpg';
 import project4 from '../assets/nba1.jpg';
+import project5 from '../assets/tictactoe.jpg'
 
 
 export const ProjectList = [
@@ -36,6 +37,14 @@ export const ProjectList = [
         skills: "JavaScript, HTML, CSS",
         github: "https://github.com/rgarfield11/phase-1-project-NBA-team-generator"
     }, 
+
+    {
+        name: "Tic-Tac-Toe",
+        image: project5,
+        blurb: "Simple 2-player tic-tac-toe game built with JavaScript",
+        skills: "JavaScript, HTML, CSS",
+        github: "https://github.com/rgarfield11/tic-tac-toe/tree/main/tic-tac-toe"
+    }
 
     
 ]
