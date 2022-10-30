@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rossgarfield/static/css/main.958b9663.css",
-    "main.js": "/rossgarfield/static/js/main.bcb313b5.js",
+    "main.js": "/rossgarfield/static/js/main.c49ac5c3.js",
     "static/js/787.c3e4f9e8.chunk.js": "/rossgarfield/static/js/787.c3e4f9e8.chunk.js",
     "static/media/tastebook.jpg": "/rossgarfield/static/media/tastebook.1434f7f68a7de8ed3eca.jpg",
     "static/media/ruby.png": "/rossgarfield/static/media/ruby.8cb95aec2b9c741a1d3f.png",
@@ -10,17 +10,18 @@
     "static/media/postgresql.png": "/rossgarfield/static/media/postgresql.66ca39a1fb37fc304bfa.png",
     "static/media/Profile.jpg": "/rossgarfield/static/media/Profile.661d9fd11c189d3a9c58.jpg",
     "static/media/tandm.jpg": "/rossgarfield/static/media/tandm.213c7814326428ce35ef.jpg",
+    "static/media/tictactoe.jpg": "/rossgarfield/static/media/tictactoe.f65adb013913f4cf2072.jpg",
     "static/media/js.png": "/rossgarfield/static/media/js.26cc380eedcd3ea3d29a.png",
     "static/media/html.png": "/rossgarfield/static/media/html.33745eadd572612bdf11.png",
     "static/media/rails.png": "/rossgarfield/static/media/rails.ea7de2bec9e09b58b5b0.png",
     "static/media/css.png": "/rossgarfield/static/media/css.630b9366bac9035f5b50.png",
     "index.html": "/rossgarfield/index.html",
     "main.958b9663.css.map": "/rossgarfield/static/css/main.958b9663.css.map",
-    "main.bcb313b5.js.map": "/rossgarfield/static/js/main.bcb313b5.js.map",
+    "main.c49ac5c3.js.map": "/rossgarfield/static/js/main.c49ac5c3.js.map",
     "787.c3e4f9e8.chunk.js.map": "/rossgarfield/static/js/787.c3e4f9e8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.958b9663.css",
-    "static/js/main.bcb313b5.js"
+    "static/js/main.c49ac5c3.js"
   ]
 }
