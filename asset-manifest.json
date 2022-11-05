@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/rossgarfield/static/css/main.ff05f70e.css",
+    "main.css": "/rossgarfield/static/css/main.5c3b376f.css",
     "main.js": "/rossgarfield/static/js/main.c49ac5c3.js",
     "static/js/787.c3e4f9e8.chunk.js": "/rossgarfield/static/js/787.c3e4f9e8.chunk.js",
     "static/media/tastebook.jpg": "/rossgarfield/static/media/tastebook.1434f7f68a7de8ed3eca.jpg",
@@ -16,12 +16,12 @@
     "static/media/rails.png": "/rossgarfield/static/media/rails.ea7de2bec9e09b58b5b0.png",
     "static/media/css.png": "/rossgarfield/static/media/css.630b9366bac9035f5b50.png",
     "index.html": "/rossgarfield/index.html",
-    "main.ff05f70e.css.map": "/rossgarfield/static/css/main.ff05f70e.css.map",
+    "main.5c3b376f.css.map": "/rossgarfield/static/css/main.5c3b376f.css.map",
     "main.c49ac5c3.js.map": "/rossgarfield/static/js/main.c49ac5c3.js.map",
     "787.c3e4f9e8.chunk.js.map": "/rossgarfield/static/js/787.c3e4f9e8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff05f70e.css",
+    "static/css/main.5c3b376f.css",
     "static/js/main.c49ac5c3.js"
   ]
 }
